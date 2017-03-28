@@ -1,0 +1,7 @@
+﻿LET A = 3 + 2 * (6 / 3)
+LET B = 3
+IF 20 > 10 THEN PRINT 5
+GOTO 25 + 25
+END
+INPUT X,Y,Z
+PRINT 4 / 5, 20, 5
